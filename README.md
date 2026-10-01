@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Muhammad Haris 👋
 
-<!--
-**oraxzai/oraxzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring SOC Analyst | Blue Team | Detection & Response
 
-Here are some ideas to get you started:
+Computer Systems Engineer from Peshawar, Pakistan, transitioning into 
+Security Operations. Documenting my hands-on journey through a 
+14-project SOC roadmap — building skills in alert triage, SIEM, 
+threat hunting, and detection engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Current Focus
+- 📌 Completing **Project 01: Live SOC Alert Monitoring** on LetsDefend
+- 🧠 Learning: MITRE ATT&CK mapping, alert triage workflow, log analysis
+- 🛠️ Building: SOC portfolio with real investigation writeups
+
+### 🧰 Tools & Technologies
+`Splunk` `Elastic` `Wazuh` `Wireshark` `LetsDefend` `TryHackMe` 
+`VirusTotal` `MITRE ATT&CK` `Sigma` `Python` `Linux` `Kali`
+
+### 📁 Portfolio Projects
+| # | Project | Status |
+|---|---------|--------|
+| 01 | Live SOC Alert Monitoring | 🔄 In Progress |
+| 02 | Phishing Email Analysis | ⏳ Upcoming |
+| ... | [Full roadmap](https://github.com/oraxzai/cybersecurity-soc-portfolio) | |
+
+### 📜 Certifications
+- CEH (Certified Ethical Hacker)
+- CCNA (Cisco Certified Network Associate)
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/haris456/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/oraxzai)
+
+---
+*"Detection is not a tool — it's a mindset."*
