@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Haris Orakzai
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I%27m+Muhammad+Haris;Aspiring+SOC+Analyst;Blue+Team+%7C+Detection+%26+Response;10+SOC+Alerts+Triaged;XZ+Backdoor+Investigator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I%27m+Muhammad+Haris;Aspiring+SOC+Analyst;Blue+Team+%7C+Detection+%26+Response;10+SOC+Alerts+Triaged;XZ+Backdoor+Investigator;3+Phishing+Challenges+Solved" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haris456-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris456/)
 [![GitHub](https://img.shields.io/badge/GitHub-oraxzai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oraxzai)
@@ -19,12 +19,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%F0%9F%8E%89+Project+01+COMPLETE;%F0%9F%93%8A+10%2F10+Alerts+Triaged;%F0%9F%94%B4+5+Confirmed+Compromises;%F0%9F%9B%A1%EF%B8%8F+2+Ransomware+Attacks+Stopped" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%F0%9F%8E%89+Project+02+COMPLETE;%F0%9F%93%8A+3%2F3+Challenges+Solved;%F0%9F%94%B4+27+Questions+Answered;%F0%9F%9B%A1%EF%B8%8F+Phishing+%7C+Malware+%7C+Threat+Intel" alt="Typing SVG" />
 
 > **🔍 Building a professional SOC analyst portfolio — one investigation at a time.**
 >
 > **📚 Roadmap:** [14-Project Blue Team Roadmap 2026](https://github.com/oraxzai/soc-analyst-journey)
-> **🏆 Progress:** `██░░░░░░░░░░░░` **1 / 14 Projects Complete**
+> **🏆 Progress:** `███░░░░░░░░░░░` **2 / 14 Projects Complete**
 
 </div>
 
@@ -36,7 +36,7 @@
 
 [![SOC Portfolio](https://img.shields.io/badge/🎯_SOC_Analyst_Journey-View_Repo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oraxzai/soc-analyst-journey)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFB300&center=true&vCenter=true&width=700&lines=10+Alerts+%7C+5+Compromises+%7C+45%2B+MITRE+Techniques;80%2B+Screenshots+%7C+45%2B+IOCs+Documented" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFB300&center=true&vCenter=true&width=700&lines=10+Alerts+%7C+3+Challenges+%7C+55%2B+MITRE+Techniques;95%2B+Screenshots+%7C+70%2B+IOCs+Documented" alt="Typing SVG" />
 
 </div>
 
@@ -54,6 +54,18 @@
 | **IOCs Extracted** | **45+** |
 | **Screenshots Documented** | **80+** |
 
+### ⚡ Project 02 — Phishing Email Analysis [✅ COMPLETE]
+
+| 🎯 Metric | 📈 Achievement |
+|:----------|:--------------:|
+| **Challenges Solved** | **3 / 3** (PhishStrike, GrabThePhisher, IcedID) |
+| **Questions Answered** | **27 / 27** |
+| **Malware Families** | **5** (BitRAT, CoinMiner, AsyncRAT, IcedID, Phishing Kit) |
+| **Threat Actors Identified** | **1** (GOLD CABIN) |
+| **MITRE Techniques Mapped** | **12+** |
+| **IOCs Extracted** | **25+** |
+| **Screenshots Documented** | **15+** |
+
 ---
 
 ## 🔥 HIGHLIGHT INVESTIGATIONS
@@ -66,17 +78,26 @@
 
 > Investigated one of the most sophisticated supply chain attacks in cybersecurity history — the XZ Utils backdoor — on an internet-exposed SSH server.
 
+### 🎣 The Phishing Kit That Stole Seed Phrases
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFB300&center=true&vCenter=true&width=700&lines=MetaMask+Phishing+Kit+Exposed;Telegram+Bot+Exfiltration+Channel;3+Victims+Already+Compromised" alt="Typing SVG" />
+
+> Analyzed a live MetaMask phishing kit, extracted the attacker's Telegram Bot Token and Chat ID, and confirmed 3 victims had already lost their seed phrases.
+
 </div>
 
-### 🕵️ Key Findings Across Project 01
+### 🕵️ Key Findings Across Projects 01 & 02
 
-| Alert | Threat | Status |
-|:-----:|--------|:------:|
-| **#04** | SSH brute force → Account discovery | 🔴 Confirmed Compromise |
-| **#05** | RDP brute force → Normal.dotm persistence | 🔴 Confirmed Compromise |
-| **#06** | Phishing → Pastebin exfiltration | 🔴 Data Leaked |
-| **#08** | Akira Ransomware (60/71 VT) | 🟠 Contained |
-| **#10** | XZ Backdoor (CVE-2024-3094) | 🔴 Supply Chain Attack |
+| Project | Threat | Status |
+|:-------:|--------|:------:|
+| **P1 #04** | SSH brute force → Account discovery | 🔴 Confirmed Compromise |
+| **P1 #05** | RDP brute force → Normal.dotm persistence | 🔴 Confirmed Compromise |
+| **P1 #06** | Phishing → Pastebin exfiltration | 🔴 Data Leaked |
+| **P1 #08** | Akira Ransomware (60/71 VT) | 🟠 Contained |
+| **P1 #10** | XZ Backdoor (CVE-2024-3094) | 🔴 Supply Chain Attack |
+| **P2 #01** | PhishStrike (BitRAT, CoinMiner, AsyncRAT) | 🔴 True Positive |
+| **P2 #02** | GrabThePhisher (MetaMask Kit) | 🔴 Active Phishing Kit |
+| **P2 #03** | IcedID (GOLD CABIN APT) | 🔴 True Positive |
 
 ---
 
@@ -94,6 +115,8 @@
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-CC0000?style=for-the-badge&logo=abuseipdb&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
+![URLHaus](https://img.shields.io/badge/URLHaus-CC0000?style=for-the-badge&logoColor=white)
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-CC0000?style=for-the-badge&logoColor=white)
 
 ### 🛡️ Detection & Analysis
 ![Sigma](https://img.shields.io/badge/Sigma-1E90FF?style=for-the-badge&logo=sigma&logoColor=white)
@@ -123,6 +146,9 @@
 | **IOC Extraction** | `████████░░` Advanced |
 | **Incident Response Playbooks** | `████████░░` Advanced |
 | **Host Containment** | `████████░░` Advanced |
+| **Phishing Kit Analysis** | `████████░░` Advanced |
+| **Threat Actor Attribution** | `████████░░` Advanced |
+| **PHP Source Code Analysis** | `████████░░` Advanced |
 
 </div>
 
@@ -154,7 +180,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%94%84+Learning%3A+MITRE+ATT%26CK+Deep+Dive;%F0%9F%9B%A0%EF%B8%8F+Building%3A+SOC+Portfolio;%F0%9F%8E%AF+Preparing+for%3A+Entry-Level+SOC+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%94%84+Learning%3A+Incident+Response+Simulation;%F0%9F%9B%A0%EF%B8%8F+Building%3A+Project+03+on+TryHackMe;%F0%9F%8E%AF+Preparing+for%3A+Entry-Level+SOC+Roles" alt="Typing SVG" />
 
 </div>
 
